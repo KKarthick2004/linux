@@ -3,7 +3,7 @@
 .. _linux_doc:
 
 ==============================
-The Linux Kernel documentation
+The Linux Kernel doc
 ==============================
 
 This is the top level of the kernel's documentation tree.  Kernel
